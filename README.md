@@ -1,2 +1,0 @@
-# DoublyLinkedList
-CSC 130
